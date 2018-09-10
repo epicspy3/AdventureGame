@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Locations
+comment1.params=
+comment1.target=Locations()
+comment10.params=Bread\ LocationsVisited\ Gold\ CurrentLocation\ day
+comment10.target=void\ TownSquare(int,\ int,\ int,\ java.lang.String,\ int)
+comment11.params=day\ LocationsVisited\ gold\ bread
+comment11.target=void\ CheckDay(int,\ int,\ int,\ int)
+comment12.params=day\ gold\ LocationsVisited
+comment12.target=void\ PaySpanish(int,\ int,\ int)
+comment2.params=i
+comment2.target=void\ setI(int)
+comment3.params=day
+comment3.target=void\ setDay(int)
+comment4.params=LocationsVisited
+comment4.target=void\ setLocationsVisited(int)
+comment5.params=
+comment5.target=int\ getI()
+comment6.params=Bread\ LocationsVisited\ Gold\ CurrentLocation\ day
+comment6.target=void\ SelectLocation(int,\ int,\ int,\ java.lang.String,\ int)
+comment7.params=Bread\ LocationsVisited\ Gold\ CurrentLocation\ day
+comment7.target=void\ Home(int,\ int,\ int,\ java.lang.String,\ int)
+comment8.params=Bread\ LocationsVisited\ Gold\ CurrentLocation\ day
+comment8.target=void\ Mine(int,\ int,\ int,\ java.lang.String,\ int)
+comment9.params=Bread\ LocationsVisited\ Gold\ CurrentLocation\ day
+comment9.target=void\ River(int,\ int,\ int,\ java.lang.String,\ int)
+numComments=13
